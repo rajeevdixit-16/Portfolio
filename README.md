@@ -1,7 +1,5 @@
-
-  # Modern Personal Portfolio Website
-
-  This is a code bundle for Modern Personal Portfolio Website. The original project is available at https://www.figma.com/design/cjYpvRjxRaoSOikYFLgj0t/Modern-Personal-Portfolio-Website.
+  ## Visit my Portfolio
+  Portfolio - https://portfolio-rajeevdixit.vercel.app/
 
   ## Running the code
 
