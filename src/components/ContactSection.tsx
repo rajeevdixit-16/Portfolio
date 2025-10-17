@@ -4,7 +4,7 @@ import { useRef, useState } from 'react';
 import { Button } from './ui/button';
 import { Input } from './ui/input';
 import { Textarea } from './ui/textarea';
-import { Github, Linkedin, Mail, Send } from 'lucide-react';
+import { Github, Instagram, Linkedin, Mail, Send } from 'lucide-react';
 import emailjs from 'emailjs-com'; // <-- Import EmailJS
 
 export function ContactSection() {
@@ -53,9 +53,9 @@ export function ContactSection() {
       color: 'hover:text-cyan-500',
     },
     {
-      icon: Mail,
-      label: 'Email',
-      href: 'mailto:dixitrajeev5202@gmail.com',
+      icon: Instagram,
+      label: 'Instagram',
+      href: 'https://www.instagram.com/rd_45official',
       color: 'hover:text-purple-600',
     },
   ];
